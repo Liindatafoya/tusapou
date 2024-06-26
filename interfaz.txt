@@ -1,0 +1,36 @@
+	Simplicidad y Claridad:
+   - Mantén una interfaz limpia y minimalista.
+   - Usa iconos y botones grandes y fáciles de entender.
+   - Evita el exceso de texto y las instrucciones complejas.
+
+	Colores y Temas:
+   - Utiliza una paleta de colores atractiva y coherente.
+   - Asegúrate de que haya suficiente contraste entre el fondo y los elementos interactivos.
+   - Considera ofrecer temas personalizables para que los jugadores puedan elegir el que más les guste.
+
+	Navegación Intuitiva:
+   - Organiza las opciones del menú de manera lógica.
+   - Asegúrate de que los jugadores puedan encontrar fácilmente lo que buscan.
+   - Usa indicadores visuales para guiar a los jugadores a través de la interfaz.
+
+	Feedback Inmediato:
+   - Proporciona retroalimentación inmediata cuando el jugador interactúa con el juego (ej., sonidos, vibraciones, animaciones).
+   - Asegúrate de que los jugadores sepan cuando han realizado una acción correcta o incorrecta.
+
+	Optimización para Diferentes Dispositivos:
+   - Asegúrate de que la interfaz se vea bien y funcione correctamente en una variedad de tamaños de pantalla y resoluciones.
+   - Prueba el juego en diferentes dispositivos para asegurarte de que la experiencia del usuario sea consistente.
+
+	Elementos Visuales y Animaciones:
+   - Usa animaciones para hacer la interfaz más dinámica y atractiva, pero sin exagerar para no distraer.
+   - Incorpora gráficos de alta calidad que sean agradables a la vista.
+
+	Accesibilidad:
+   - Considera a los jugadores con discapacidades visuales, auditivas o motoras. 
+   - Incluye opciones como textos grandes, colores ajustables y controles personalizables.
+
+	Consistencia:
+   - Mantén un estilo y diseño consistentes en toda la interfaz.
+   - Usa los mismos iconos y terminología para acciones similares.
+
+Implementando estas recomendaciones, podremos mejorar significativamente la interfaz de el juego de TUZA y proporcionar una experiencia más agradable y atractiva a los jugadores.
